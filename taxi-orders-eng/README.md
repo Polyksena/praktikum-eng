@@ -15,7 +15,7 @@ The taxi company has collected historical data on taxi orders at airports. The t
 5. Training models
 6. Analysis and comparison of the best models
 
-# Используемые библиотеки
+# Used libraries
 
 - Pandas
 - Matplotlib
