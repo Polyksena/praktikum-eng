@@ -2,7 +2,7 @@
 
 The online store sells computer games all over the world. Historical data of game sales, user and expert ratings, genres and platforms are available from open sources.
 
-The project has data up to 2016, and I have to plan a campaign for 2017. I have to develope the principle of working with data, which can be applied in any other year.
+The project has data up to 2016, and I had to plan a campaign for 2017. I had to develope the principle of working with data, which could be applied in any other year.
 
 # Task 
 
