@@ -1,4 +1,4 @@
-Repository containing portfolio of my data science projects completed during the training courses at Yandex.Praktikum
+Repository contains portfolio of my data science projects completed during the training courses at Yandex.Praktikum
 
 Presented in the form of iPython Notebooks and readme markdown files.
 
